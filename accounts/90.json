@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "new-aria-vault",
+  "private_key_id": "f0b5c2d081c41755a5c242ee9d02028ad828eedb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjc8yyHZDFk1xW\nria0+v/Nt8fTXM5lFt1lJxr5Yw2BXkSiHXs+frvTFWtJ1qDuvVDIfe+ycsLgX7CE\nOnZPiRhv7vzYOdfBcq15rEO0dwVWOoignjuc+3/MKuz9MEZARdA+uEA9ZUv3tbDi\n0AQ+vyleL8qzhb0dNzQdQ2aEz/LKV/Nl6vcgEM4ePUkSNq+S+0b2hP7O3dfCfCj5\nQZeZ6qsA0MjmU9VTnP/YISA6N87ZNewdqEnLiMjdOjjIAH6QzOateRsSMcpdWhYZ\noN/HILOAZc88kZLxvnMEcTtHQEYBA9RidbQGugEBV4ZGMJNBCRuK1EVUXlG2wvMA\n/YdzkYUzAgMBAAECggEADut9rm7qc+gWnRO6e5MQKvJxCBPhnYw8joST5Sde6Gv3\nCEFFEOUd0FyVKLrk58Xzvy++FuQVpWHp4x5r0qjCyHzgXmOXrfqbNFvYHK7JZIYy\nFujURWkW0K34Afux5FRuRNT2vP2N6KeQfoB0bFg9g3GjWnqFUuRi5zgeyu+PmI6d\nom7Cja8zZX87iNRlKY5rDGEeEXks1DYPSR2J6CTH+5qyBy58aUQgIt7WHN/9Ti2t\n9dREJFCfXPJl2x36uThQFfIog91K6KwT0AjwmvtJnPlVkPcF3Wdz3Oa7fYw71Pv4\nySiBHAsp50cBtviedrWE90xRM6C9v2bS+qLgorN8sQKBgQDbqmKHN8H/sIxG/S6G\n2rdQJvgywSlRjJKgFV5ytHAhFpVKXSTOpOv1KIVAj8BuWo5lgjS15H1J7Bn9rVEn\nYCvTdjSv0i4xLuH46rUmUr+D8QHbpzM4VkgfdHkVdooY2WIShQmf7VJU3uaIrPXt\n+iWNCQhCPGq15QytlysHhV/fqQKBgQC+fRjotBE9cIO7K6Ny6t2RPGSLGg212Vq6\ncA1ujJwTMGBYxYAuI+FdPCuD9oPHhHmYAKGvUSG+xjA+f0P6bAZy2TsNl0l7QwCN\ntWXC9UmDOBFp6YKFlokyDpQoEBM6SqvOd2PIPtikKiO22DLN6IM3aaYyA8xZ0Rai\neERYRS33ewKBgFV3jsxjomS0sW+xdJfdo3NZJjrBMy1aj3YfulbQ48vL+Jwtb3PD\ncVc6w9Xh2JJXQ441QgL/esv3RAmSlL/ISGUHWeqK0ZQrVJq/32mgyokwjXOEM4aY\n84jhjXcPXx3Z/rGL97m04dLJw1KsUSedq1ybhg4XacGJ9AvahFBx0WK5AoGAEF0y\nzJrbeEm4J1YiXnbqvdVQVdrRHrQjZSzHGp4dslBPlpCw6EXQ0G+g1V9SBsvMnlA/\nk44GthrUfin0rwikrS0YM5yxhVNGMuZIba0guZMRe+XBfrRl6NTzyVVIMZPEmqIL\nAmLTvZaZJtX/10yIKTR8QIOvBHA/34kxZdvbjQ0CgYBEe/SWLviZRtHzE03RUf/R\nby7uUQsrPUMKTz5STE74fxCiHE2XBa1A3NCfrvW5p7Oez7ZrqHeqSKcFDFgJP/bO\njARxRkwaDD8A5IJ/2VQeYriT307nPRjoQ0SZjj6aE8CpzEmkLFgX5G03njFa20R6\nUChrzcaCcZi6SLzF5z8n9Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-blc7dna8b1t5-wdqpj7cdz237n@new-aria-vault.iam.gserviceaccount.com",
+  "client_id": "104821585540486266461",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-blc7dna8b1t5-wdqpj7cdz237n%40new-aria-vault.iam.gserviceaccount.com"
+}
